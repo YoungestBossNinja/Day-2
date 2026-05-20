@@ -1,0 +1,22 @@
+Examen poging 1:
+
+je krijgt een omgeving een daar moet je allemaal kwetsbaarheden zien te vinden. 
+hier had ik geen lijst gekregen. ik moest gewoon kwetsbaarheden noteren zoals:
+
+firewall staat uit
+zwak wachtwoord
+
+
+
+
+Examen poging 2:
+je krijgt een omgeving open die website in google. log in, volgens mij was my wachtwoord root of toor.
+
+Het is een wordpress website. je hebt een lijstje gekregen met kwetsbaarheden die je moet uitvoeren.
+
+Voorbeelden:
+
+Wordpress plugins up to date?       =       dan moet je die updaten en een screenshot maken 
+een account kan worden aangemaakt met een zwak wachtwoord      =       dat moet je dan fixen als het goed is
+
+je moet er minimaal 6 doen voor een voldoende. je kan meer maken voor een hoger cijfer of als je niet zeker bent van bepaalde kwetsbaarheden
